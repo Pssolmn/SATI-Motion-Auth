@@ -1,6 +1,7 @@
 # SATI (สติ) - Security Awareness Through Interaction 🛡️
 
-![SATI Banner](<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/34f07c3b-eda5-46cf-9608-3b17bb22270b" />
+![SATI Banner](<img width="2880" height="1800" alt="Banner (ทำใหม่แน่ครับ)" src="https://github.com/user-attachments/assets/d3dcfd78-7e02-430f-8e25-dfbd5aad2854" />
+
 )
 
 > **"The Final Defense Against Remote Access Scams."**
