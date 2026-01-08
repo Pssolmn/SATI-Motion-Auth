@@ -55,7 +55,7 @@ Verifying identity through a combination of voice stress analysis and tapping rh
 ---
 
 ## 📥 Try the Demo
-Experience the "Mindful Pause" yourself.
+Experience the "Mindful Pause" yourself. PIN is "711520"
 [**Download Prototype APK**](https://drive.google.com/file/d/1ZdEYE31qTBHPE2MnBlLowosuV3wouTGA/view?fbclid=IwY2xjawPL82ZleHRuA2FlbQIxMABicmlkETFuNGdnbEFVNDVmMlNldnVRc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHh45cB6V-9Ibhm-SOz-2mrjfnIJptNjRAfTekzi5Qw-zy7z89eC8Sbkjl8A8_aem_fc8uLCzWei-3d-WW0PVslg)
 
 ---
