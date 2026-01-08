@@ -1,6 +1,6 @@
 # SATI (สติ) - Security Awareness Through Interaction 🛡️
 
-![SATI Banner](<img width="2880" height="1800" alt="Banner (ทำใหม่แน่ครับ)" src="https://github.com/user-attachments/assets/d3dcfd78-7e02-430f-8e25-dfbd5aad2854" />)
+<img width="2880" height="1800" alt="Banner (ทำใหม่แน่ครับ)" src="https://github.com/user-attachments/assets/ddee6d70-a541-4b30-9c14-a2da67b2d6b1" />
 
 > **"The Final Defense Against Remote Access Scams."**
 
@@ -54,7 +54,7 @@ Verifying identity through a combination of voice stress analysis and tapping rh
 
 ## 📥 Try the Demo
 Experience the "Mindful Pause" yourself. PIN is "711520"
-[**Download Prototype APK**]([https://drive.google.com/file/d/1ZdEYE31qTBHPE2MnBlLowosuV3wouTGA/view?fbclid=IwY2xjawPL82ZleHRuA2FlbQIxMABicmlkETFuNGdnbEFVNDVmMlNldnVRc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHh45cB6V-9Ibhm-SOz-2mrjfnIJptNjRAfTekzi5Qw-zy7z89eC8Sbkjl8A8_aem_fc8uLCzWei-3d-WW0PVslg](https://drive.google.com/file/d/1viQ7UwvkOrdR_I1Iq6RRHFxzePIkq00F/view?usp=drive_link))
+[**Download Prototype APK**](https://drive.google.com/file/d/1viQ7UwvkOrdR_I1Iq6RRHFxzePIkq00F/view?usp=drive_link)
 
 ---
 
