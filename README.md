@@ -59,4 +59,12 @@ Experience the "Mindful Pause" yourself.
 [**Download Prototype APK**](https://drive.google.com/file/d/1ZdEYE31qTBHPE2MnBlLowosuV3wouTGA/view?fbclid=IwY2xjawPL82ZleHRuA2FlbQIxMABicmlkETFuNGdnbEFVNDVmMlNldnVRc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHh45cB6V-9Ibhm-SOz-2mrjfnIJptNjRAfTekzi5Qw-zy7z89eC8Sbkjl8A8_aem_fc8uLCzWei-3d-WW0PVslg)
 
 ---
+
+## 👥 Created By
+This project was created by:
+* **Passakorn Songchim** - [LinkedIn Profile](https://www.linkedin.com/in/passakorn-songchim-5641582b6/)
+* **Saravut Jitmano** - [LinkedIn Profile](https://www.linkedin.com/in/siriwat-jitmano-2005553a3/)
+* **Jakkapong Kampha** - [LinkedIn Profile](https://www.linkedin.com/in/%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%84%E0%B8%B3%E0%B8%A0%E0%B8%B2-8a42593a5/)
+
+---
 *Developed for [Samsung × KBTG Digital Fraud Cybersecurity Hackathon]*
